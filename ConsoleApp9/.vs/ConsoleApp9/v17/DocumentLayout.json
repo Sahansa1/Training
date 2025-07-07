@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SahansaAmarasinghe\\source\\repos\\Training\\ConsoleApp9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D24F480-1BF0-4EED-A42E-C78F216F67B1}|ConsoleApp9\\ConsoleApp9.csproj|c:\\users\\sahansaamarasinghe\\source\\repos\\training\\consoleapp9\\consoleapp9\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D24F480-1BF0-4EED-A42E-C78F216F67B1}|ConsoleApp9\\ConsoleApp9.csproj|solutionrelative:consoleapp9\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D24F480-1BF0-4EED-A42E-C78F216F67B1}|ConsoleApp9\\ConsoleApp9.csproj|c:\\users\\sahansaamarasinghe\\source\\repos\\training\\consoleapp9\\consoleapp9\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D24F480-1BF0-4EED-A42E-C78F216F67B1}|ConsoleApp9\\ConsoleApp9.csproj|solutionrelative:consoleapp9\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D24F480-1BF0-4EED-A42E-C78F216F67B1}|ConsoleApp9\\ConsoleApp9.csproj|c:\\users\\sahansaamarasinghe\\source\\repos\\training\\consoleapp9\\consoleapp9\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D24F480-1BF0-4EED-A42E-C78F216F67B1}|ConsoleApp9\\ConsoleApp9.csproj|solutionrelative:consoleapp9\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D24F480-1BF0-4EED-A42E-C78F216F67B1}|ConsoleApp9\\ConsoleApp9.csproj|c:\\users\\sahansaamarasinghe\\source\\repos\\training\\consoleapp9\\consoleapp9\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D24F480-1BF0-4EED-A42E-C78F216F67B1}|ConsoleApp9\\ConsoleApp9.csproj|solutionrelative:consoleapp9\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D24F480-1BF0-4EED-A42E-C78F216F67B1}|ConsoleApp9\\ConsoleApp9.csproj|c:\\users\\sahansaamarasinghe\\source\\repos\\training\\consoleapp9\\consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D24F480-1BF0-4EED-A42E-C78F216F67B1}|ConsoleApp9\\ConsoleApp9.csproj|solutionrelative:consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\SahansaAmarasinghe\\source\\repos\\Training\\ConsoleApp9\\ConsoleApp9\\Helper.cs",
+              "RelativeDocumentMoniker": "ConsoleApp9\\Helper.cs",
+              "ToolTip": "C:\\Users\\SahansaAmarasinghe\\source\\repos\\Training\\ConsoleApp9\\ConsoleApp9\\Helper.cs",
+              "RelativeToolTip": "ConsoleApp9\\Helper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:41:42.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\SahansaAmarasinghe\\source\\repos\\Training\\ConsoleApp9\\ConsoleApp9\\Booking.cs",
+              "RelativeDocumentMoniker": "ConsoleApp9\\Booking.cs",
+              "ToolTip": "C:\\Users\\SahansaAmarasinghe\\source\\repos\\Training\\ConsoleApp9\\ConsoleApp9\\Booking.cs",
+              "RelativeToolTip": "ConsoleApp9\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:41:20.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\SahansaAmarasinghe\\source\\repos\\Training\\ConsoleApp9\\ConsoleApp9\\User.cs",
+              "RelativeDocumentMoniker": "ConsoleApp9\\User.cs",
+              "ToolTip": "C:\\Users\\SahansaAmarasinghe\\source\\repos\\Training\\ConsoleApp9\\ConsoleApp9\\User.cs",
+              "RelativeToolTip": "ConsoleApp9\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:40:35.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\SahansaAmarasinghe\\source\\repos\\Training\\ConsoleApp9\\ConsoleApp9\\Movie.cs",
+              "RelativeDocumentMoniker": "ConsoleApp9\\Movie.cs",
+              "ToolTip": "C:\\Users\\SahansaAmarasinghe\\source\\repos\\Training\\ConsoleApp9\\ConsoleApp9\\Movie.cs",
+              "RelativeToolTip": "ConsoleApp9\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:39:55.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SahansaAmarasinghe\\source\\repos\\Training\\ConsoleApp9\\ConsoleApp9\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp9\\Program.cs",
+              "ToolTip": "C:\\Users\\SahansaAmarasinghe\\source\\repos\\Training\\ConsoleApp9\\ConsoleApp9\\Program.cs",
+              "RelativeToolTip": "ConsoleApp9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:02:43.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
